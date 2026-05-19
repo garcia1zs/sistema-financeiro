@@ -1,0 +1,14 @@
+{
+    "saldo": 100.0,
+    "entrou": 100.0,
+    "saiu": 0,
+    "transacoes": [
+        {
+            "tipo": "Entrada",
+            "valor": 100.0,
+            "motivo": "venda",
+            "data": "12/05/2026 ",
+            "codigo": 9231
+        }
+    ]
+}
